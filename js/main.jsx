@@ -1,4 +1,4 @@
-·var React=require('react');
+var React=require('react');
 var ReactDOM=require('react-dom');
 
 require('../css/base.css');
