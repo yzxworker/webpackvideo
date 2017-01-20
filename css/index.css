@@ -1,0 +1,7 @@
+#app{ width:640px; height:380px; overflow:hidden; margin:50px auto; }
+.player{ position:relative; }
+.listbox{ position:absolute; right:-150px; top:0; background:rgba(0,0,0,0.5); width:150px; height:100%; z-index:999; }
+
+.list li{ height:30px; line-height:28px;text-indent:1em; cursor:pointer; color:#fff; }
+.list li:hover{ background:#3387c1; color:#ea0a2a; z-index:9999; }
+.yclist{ position:absolute; width:30px; height:60px; left:-30px; top:50%; margin-top:-30px; color:#fff; font-size:28px; cursor:pointer; text-align:center;  line-height:60px; }
